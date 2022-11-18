@@ -14,11 +14,11 @@ class News extends StatelessWidget {
         child: Column(
           children: const [
             SectionCard(
-                text: 'Lorem ipsum dolor sit amet', path: 'images/food.jpg'),
+                text: 'Lorem ipsum dolor amet elit ipsum', path: 'images/food.jpg'),
             SectionCard(
                 text: 'Consectetur adipiscing elit', path: 'images/report.jpg'),
             SectionCard(
-                text: 'Cold water will be turned off',
+                text: 'Consectuter adiselitse dogerue',
                 path: 'images/water.jpg'),
             SectionCard(
                 text: 'Lorem ipsum dolor sit amet',
